@@ -3,11 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>gxtest.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="doc\" />
-    <Folder Include="test\" />
+    <Folder Include="test\testfiles\" />
   </ItemGroup>
 
 </Project>

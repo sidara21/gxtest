@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gxtest": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../test/testfiles/test2.txt"
+    }
+  }
+}
